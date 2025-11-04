@@ -5,3 +5,4 @@ Fully Compatible with mThund3R's Eikonic Equipment - Gear and Recipe Overhaul wh
 Ask for permission before releasing mod to other websites.
 
 If you seek to use my mod with your own project, then ask me for permission first.
+https://www.nexusmods.com/finalfantasy16/mods/319
